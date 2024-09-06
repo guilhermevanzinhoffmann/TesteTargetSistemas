@@ -31,6 +31,3 @@ def resultados(vetor):
     print(f'O menor valor de faturamento ocorrido em um dia do ano é de : {menor_valor_faturamento} reais')
     print(f'O maior valor de faturamento ocorrido em um dia do ano é de : {maior_valor_faturamento} reais')
     print(f'Número de dias no ano em que o valor de faturamento diário foi superior à média anual : {total_dias_valor_faturamento_maior_media_anual} dia(s)')
-
-vetor = [5,2,3,1,0,0,4,5,6,7,2,31, 2, 67, 89, 0, 32]
-resultados(vetor)
