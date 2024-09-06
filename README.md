@@ -12,7 +12,7 @@ f) 200
 ### 3:
 A resposta está no arquivo ['teste3.py'](./teste3.py)  
 ### 4:
-A resposta está no arquivo 'teste4.txt'
+A resposta está no arquivo ['exercicio4.docx'](./exercicio4.docx)
 ### 5:  
 Para resolver podemos calcular a distância percorrida por cada veículo até o momento em que ambos se encontram e   
 depois disso comparar a distância com a distância total entre as cidades. 
