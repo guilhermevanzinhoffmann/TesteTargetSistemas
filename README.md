@@ -10,7 +10,7 @@ d) 10000
 e) 13  
 f) 200  
 ### 3:
-A resposta está no arquivo 'teste3.py'  
+A resposta está no arquivo ['teste3.py'](./teste3.py)  
 ### 4:
 A resposta está no arquivo 'teste4.txt'
 ### 5:  
